@@ -1,0 +1,30 @@
+v1
+-	Define transform buffs
+	-	Spectral Warrior
+	-	Star Man
+	-	Iron Man
+	-	Hyper Hippo
+	-	Psycho
+-	Transform presets (mutually exclusive)
+	-	...
+	-	Psycho mode
+		-	Add sound loop
+		-	Set initial buff duration to 30s, increase +3s with each kill (max 60s)
+
+		-	Increase damage with each kill
+		-	Increase movement, jump
+		-	Force player equipped item override
+		-	Force player outfit change
+		-	Define buff
+-	Make mutually exclusive with other 'mode' buffs
+-	Setup project
+
+
+
+@Plan
+-	Presets
+	-	Spectral Warrior mode: Near invincibility, damage enemies on contact, cannot attack
+	-	Star Man mode: SHMUP mode; 1 hit deactivates, endless flight, shoots stars
+	-	Iron Man mode: No jump, very high defense, ground quakes on drops, appear iron
+	-	Hyper Hippo mode: Slow, low jump, punch attack only, can break weak walls (dirt, mud)
+	-	Psycho mode: Fast movement, high jump, psycho knife only, high damage, combos increase damage
